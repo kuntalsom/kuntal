@@ -192,8 +192,8 @@ textarea {
 .es-bar h6 span{font-weight: 700; text-transform: uppercase; letter-spacing: 2px;}
 
 .service-list{margin-left: -20px; margin-right: -20px; display: -webkit-flex; display: flex; -webkit-flex-wrap: wrap; flex-wrap: wrap;}
-.service-list li{margin: 20px; background: #ffffff; width: calc(33.3% - 40px); -webkit-transition: all 0.4s ease-in-out 0s; -moz-transition: all 0.4s ease-in-out 0s; transition: all 0.4s ease-in-out 0s; -webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.2); -moz-box-shadow: 0 0 10px 0 rgba(0,0,0,0.2); box-shadow: 0 0 10px 0 rgba(0,0,0,0.2); position: relative; top: 0;}
-.service-list li .sl-inn{padding: 40px;}
+.service-list li{margin: 20px; background: #ffffff; width: calc(25% - 40px); -webkit-transition: all 0.4s ease-in-out 0s; -moz-transition: all 0.4s ease-in-out 0s; transition: all 0.4s ease-in-out 0s; -webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.2); -moz-box-shadow: 0 0 10px 0 rgba(0,0,0,0.2); box-shadow: 0 0 10px 0 rgba(0,0,0,0.2); position: relative; top: 0;}
+.service-list li .sl-inn{padding: 32px;}
 .ser-ic{width: 60px; height: 60px; display: block; border: 2px solid orange; text-align: center; color: orange; font-size: 40px; line-height: 60px; font-weight: 700; margin-bottom: 20px; -webkit-transition: all 0.4s ease-in-out 0s; -moz-transition: all 0.4s ease-in-out 0s; transition: all 0.4s ease-in-out 0s;}
 .service-list li:hover{-webkit-box-shadow: 0 0 15px 0 rgba(0,0,0,0.4); -moz-box-shadow: 0 0 15px 0 rgba(0,0,0,0.4); box-shadow: 0 0 15px 0 rgba(0,0,0,0.4); top: -10px;}
 .service-list li:hover .ser-ic{border-color: #041230; color: #041230;}
